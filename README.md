@@ -1,5 +1,5 @@
-# Projeto de Sistemas Digitais - Relógio Digital
-Consiste de um relógio/cronometro digital desenvolvido em Verilog para o chip FPGA Ciclone IV.
+# Projeto de Laboratório de Circuitos Lógicos - Relógio Digital
+Consiste de um relógio com cronômetro digital desenvolvido em Verilog para o chip FPGA Ciclone II.
 
 
 ## Rodar projeto
